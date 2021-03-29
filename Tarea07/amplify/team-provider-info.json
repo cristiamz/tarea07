@@ -1,0 +1,20 @@
+{
+  "dev": {
+    "awscloudformation": {
+      "AuthRoleName": "amplify-tarea07-dev-190803-authRole",
+      "UnauthRoleArn": "arn:aws:iam::230395879055:role/amplify-tarea07-dev-190803-unauthRole",
+      "AuthRoleArn": "arn:aws:iam::230395879055:role/amplify-tarea07-dev-190803-authRole",
+      "Region": "us-east-1",
+      "DeploymentBucketName": "amplify-tarea07-dev-190803-deployment",
+      "UnauthRoleName": "amplify-tarea07-dev-190803-unauthRole",
+      "StackName": "amplify-tarea07-dev-190803",
+      "StackId": "arn:aws:cloudformation:us-east-1:230395879055:stack/amplify-tarea07-dev-190803/38599300-902b-11eb-a6ce-123f2d95f4cf",
+      "AmplifyAppId": "d3irckip48y59s"
+    },
+    "categories": {
+      "auth": {
+        "tarea07d0716b31": {}
+      }
+    }
+  }
+}
